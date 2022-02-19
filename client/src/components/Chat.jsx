@@ -14,7 +14,7 @@ const UsersSidebar = styled.div`
   position: absolute;
   left: 3vw;
   width: 10vw;
-  height: 600px;
+  height: 85vh;
   background-color: #ffffff50;
   border-radius: 5px;
   backdrop-filter: blur(2px);
@@ -39,7 +39,7 @@ const Users = styled.p`
 
 const Gamebox = styled.div`
   width: 75vw;
-  height: 600px;
+  height: 85vh;
   background-color: #ffffff50;
   border-radius: 5px;
   backdrop-filter: blur(2px);
